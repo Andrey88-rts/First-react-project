@@ -1,3 +1,6 @@
+Учебный проект на React.js - приложение позволяет добавлять посты на страницу, удалять, лайкать посты, делать поиск по названию поста, фильтровать посты в зависимости от установленных лайков.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
